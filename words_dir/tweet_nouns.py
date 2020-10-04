@@ -58,7 +58,8 @@ nouns = [
     'lion 🦁',
     'horse 🐎',
     'elephant',
-    'wolf'
+    'wolf',
+    'human'
 
     # clothing items
     'flannel shirt',
@@ -92,11 +93,12 @@ nouns = [
     'blue jeans 👖',
     'sunglass 🕶️',
     'bikini 👙',
+    'jockstrap'
 
     # foods
     'pizza',
     'chicken noodle soup',
-    'protien shake',
+    'protein shake',
     'tuna',
     'cheeseburger 🍔',
     'french fries 🍟',
@@ -146,7 +148,13 @@ nouns = [
     'tandoori chicken',
     'roti',
     'naan',
-    'biryani'
+    'biryani',
+    'eggplant 🍆',
+    'twinkie',
+    'kimchi', 
+    'moussaka',
+    'mayonnaise sandwich',
+    'peach'
 
 
     # computer things
@@ -209,6 +217,7 @@ nouns = [
     'Xbox X',
     'Adventure Vision',
     'Virtual Boy',
+    'Sega Saturn'
 
     # nature
     'bolt of lightning',
@@ -282,12 +291,14 @@ nouns = [
     'lighthouse in the darkness',
     'graphic novel memoir',
     'scream into the void',
+    'log cabin republican'
 
     # movie genre
     'thriller',
     'comedy',
     'romance',
     'horror',
+    'rom-com'
 
     # music genre
     'rock',
@@ -300,5 +311,6 @@ nouns = [
     'swing',
     'indie',
     'metal',
-    'punk'
+    'punk',
+    'new wave'
 ]
